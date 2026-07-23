@@ -1,5 +1,4 @@
-# LeetCode_Practice
-# LeetCode Topics
+# LeetCode_Practice Topics
 ## Tree
 |  |
 | ------- |
